@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+}
+
+
+
+
+#background{
+   height: 213px;
+   width: 100%;
+   background-size:100%;
+   opacity: 0.8;
+}  
+#pfp{
+    margin-top: -155px;
+    margin-left: 245px;
+    border-radius: 20cm;
+    border-style: groove;
+    height: 277px;
+    width: 255px;
+    border-color: black;
+    position: relative;
+}
+#name{
+    margin-top: -214px;
+    margin-left: 591px;
+    
+    font-size: 64px;
+}
+.container{
+    display: flex;
+    margin-top: 26px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    margin-right: 140px;
+
+}
+
+.intro{
+    background-color: blanchedalmond;
+    height: 379px;
+    width: 33%;
+    margin-top: 79px;
+    margin-left: 102px;
+
+}
+.education{
+    background-color: indianred;
+height: 379px;
+width: 52%;
+margin-top: 79px;
+margin-left: 10px;
+}
+
+.skills{
+    background-color:indianred;
+height: 379px;
+width: 52%;
+margin-top: 15px;
+margin-left: 102px;
+}
+.language{
+    background-color: blanchedalmond;
+    height: 379px;
+    width: 33%;
+    margin-top: 17px;
+    margin-left: 11px;
+}
+.hobbies{
+    background-color:blanchedalmond ;
+    height: 379px;
+    width: 33%;
+    margin-top: 12px;
+    margin-left: 102px;
+    
+}
+.courses-taken{
+    background-color: indianred;
+    height: 379px;
+    width: 52%;
+    margin-top: 12px;
+    margin-left: 10px;
+   
+}
+.position{
+    background-color: indianred;
+    height: 379px;
+    width: 52%;
+    margin-top: 11px;
+    margin-left: 101px;
+}
+.extracurricular{
+    background-color: blanchedalmond;
+    height: 379px;
+    width: 33%;
+    margin-top: 12px;
+    margin-left: 14px;
+}
+h2{
+    margin-top: -3px;
+    margin-bottom: -2px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 57px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-style: italic;
+    text-align: left;
+    color: purple;
+    text-decoration: underline;
+
+}
+p{
+    padding-left: 5px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+li{
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
